@@ -85,7 +85,7 @@
     "lodash": "^4.18.1",
     "mkdirp": "^3.0.1",
     "pyright": "^1.1.411",
-    "simple-git": "^3.36.0",
+    "simple-git": "^4.0.1",
     "tmp-promise": "^3.0.3",
     "ts-adt": "^2.1.2",
     "winston": "^3.19.0",
